@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sombraios@hotmail.com | 47-997383886**
 
-- ⚡ Fun fact **my first job was as a web designer. I make my transition to web developer in 2022!**
+- ⚡ Fun fact **my first job was as a graphic designer. I make my transition to web developer in 2022!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
