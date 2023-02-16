@@ -39,8 +39,6 @@
   <img align="center" alt="lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroemmanuelbuerger&" alt="pedroemmanuelbuerger" /></p>
-
  
   ![Snake animation](https://github.com/PedroEmmanuelBuerger/PedroEmmanuelBuerger/blob/output/github-contribution-grid-snake.svg)
 
