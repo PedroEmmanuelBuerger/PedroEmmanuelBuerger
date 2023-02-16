@@ -15,8 +15,6 @@
 </div>
   
   ![Snake animation](https://github.com/PedroEmmanuelBuerger/PedroEmmanuelBuerger/blob/output/github-contribution-grid-snake.svg)
- 
-Ola, sejam bem vindos(a)!!
 
 Me chamo Pedro Emmanuel. Sou apaixonado por tecnologia desde que me conheço por gente, Sempre estou indo em busca de novos conhecimentos e de muita evolução pessoal.
 
