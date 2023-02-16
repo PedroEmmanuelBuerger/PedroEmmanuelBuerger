@@ -14,6 +14,21 @@
   <img align="center" alt="lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
 </div>
   
+  <div>
+    <p/>
+Ola, sejam bem vindos(a)!!
+
+Me chamo Pedro Emmanuel. Sou apaixonado por tecnologia desde que me conheço por gente, Sempre estou indo em busca de novos conhecimentos e de muita evolução pessoal.
+
+em 2019 até 2021 atuei como design gráfico e design de midias sociais, passando pelo curso de marketing digital e design gráfico do SENAI. Como designer apliquei muita comunicação e trabalho em equipe alem de adiquirir minha primeira experiencia profissional.
+
+Em 2022 faço minha transição da área do design gráfico para a carreira de programação, começando como estudante da instituição Trybe.
+Faço a transição de carreira para o Desenvolvimento Web pois sempre tive muito contato com esta área e vejo que o futuro que ela traz é incrivel e muito vasto, tendo tambem certo histórico com a area de programação nos anos de 2017-2018 na instituição CEDUP Hermann Hering.
+
+Caracteristicas pessoais: Comprometido, Pontual, Resiliente e com Facilidade de adaptação.
+Principais tecnologias: HTML, CSS, Node, Git, React, Javascript, Linux.
+  </div>
+  
   ![Snake animation](https://github.com/PedroEmmanuelBuerger/PedroEmmanuelBuerger/blob/output/github-contribution-grid-snake.svg)
  
  
