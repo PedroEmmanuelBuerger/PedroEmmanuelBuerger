@@ -4,7 +4,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedroemmanuelbuerger&theme=dracula&rank=S,AAA,AA,A,B,C" alt="pedroemmanuelbuerger" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=pedroemmanuelbuerger&theme=dracula&rank=S,AAA,AA,A,B,C" alt="pedroemmanuelbuerger" /></a> </p>
 
 - 🌱 I’m currently learning **React.js | RTL | Redux | Hooks**
 
