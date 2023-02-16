@@ -13,6 +13,7 @@
   <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
 </div>
+  
   ![Snake animation](https://github.com/PedroEmmanuelBuerger/PedroEmmanuelBuerger/blob/output/github-contribution-grid-snake.svg)
   
     <div>
