@@ -13,7 +13,7 @@
   <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
 </div>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=PedroEmmanuelBuerger-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ 
   ![Snake animation](https://github.com/PedroEmmanuelBuerger/PedroEmmanuelBuerger/blob/output/github-contribution-grid-snake.svg)
 
 Me chamo Pedro Emmanuel. Sou apaixonado por tecnologia desde que me conheço por gente, Sempre estou indo em busca de novos conhecimentos e de muita evolução pessoal.
