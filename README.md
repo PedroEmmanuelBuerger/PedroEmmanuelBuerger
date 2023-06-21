@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img  src="https://github-profile-trophy.vercel.app/?username=pedroemmanuelbuerger&theme=dracula&rank=S,AAA,AA,A,B,C&margin-w=15&margin-h=15&no-bg=true" alt="pedroemmanuelbuerger" /></a> </p>
 
-- 🌱 I’m currently learning **Docker | MySql | Node | Typescript**
+- 🌱 I’m currently learning **Python | POO | Java | Data Science**
 
-- 💬 Ask me about **React.js | RTL | Javascript | Hooks**
+- 💬 Ask me about **React.js | RTL | Javascript | Hooks | Docker | MySql | Node | Typescript**
 
 - 📫 How to reach me **sombraios@hotmail.com | 47-997383886**
 
