@@ -4,14 +4,16 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img  src="https://github-profile-trophy.vercel.app/?username=pedroemmanuelbuerger&theme=dracula&rank=S,AAA,AA,A,B,C&margin-w=15&margin-h=15&no-bg=true" alt="pedroemmanuelbuerger" /></a> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img  src="https://github-profile-trophy.vercel.app/?username=pedroemmanuelbuerger&theme=dracula&rank=S,AAA,AA,A,B,C&margin-w=15&margin-h=15&no-bg=true" alt="pedroemmanuelbuerger" /></a> </p>
 
 <div align="center">
   <a href="https://github.com/PedroEmmanuelBuerger">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PedroEmmanuelBuerger&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="165em"  src="https://github-readme-stats.vercel.app/api?username=PedroEmmanuelBuerger&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEmmanuelBuerger&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
-    
+<h1>About me:</h1>  
+   
 - 🌱 I’m currently learning **Python | POO | Java | Data Science**
 
 - 💬 Ask me about **React.js | RTL | Javascript | Hooks | Docker | MySql | Node | Typescript**
@@ -20,6 +22,15 @@
 
 - ⚡ Fun fact **my first job was as a graphic designer. I make my transition to web developer in 2022!**
 
+
+<p>
+<img align="right" width="350" src="https://media0.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=ecf05e47fe812azlor7r1ju8811uqp9p9lre3ytf6el9dfw1&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
+Hello, I am Pedro Emmanuel, a technology enthusiast and professional. My constant pursuit of new knowledge and personal growth led me to work as a graphic and social media designer between 2019 and 2021, where I learned the importance of communication and teamwork.
+
+Currently, I am transitioning my career into Web Development, an area that has always fascinated me and offers an incredible and vast future. In 2017 and 2018, I had exposure to programming at the institution CEDUP Hermann Hering, which further motivated me to pursue this path.
+
+As for technical skills, I have experience in Javascript, Typescript, React, RTL, Hooks, and Redux, along with graphic and social media design abilities. This combination of skills allows me to bring a unique and creative perspective to web development
+</p>
 <h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" /></h3>
 
 <p align="left">
@@ -41,6 +52,3 @@
 <p align="left"> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> </p>
 <h3 align="left">Others:</h3>
 <p align="left">  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> </p>
-
-
- 
