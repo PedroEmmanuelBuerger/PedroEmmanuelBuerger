@@ -14,7 +14,7 @@
 </div>
 <h1>About me:</h1>  
    
-- 🌱 I’m currently learning **Python | POO | Java | Data Science**
+- 🌱 I’m currently learning **Python | POO | C# | Data Science**
 
 - 💬 Ask me about **React.js | RTL | Javascript | Hooks | Docker | MySql | Node | Typescript**
 
