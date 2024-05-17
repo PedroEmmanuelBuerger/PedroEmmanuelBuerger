@@ -4,7 +4,7 @@
 
 
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img  src="https://github-profile-trophy.vercel.app/?username=pedroemmanuelbuerger&theme=dracula&rank=S,AAA,AA,A,B,C&margin-w=15&margin-h=15&no-bg=true" alt="pedroemmanuelbuerger" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img  src="https://github-profile-trophy.vercel.app/?username=pedroemmanuelbuerger&theme=dracula&rank=S,AAA,AA,A,B,C&margin-w=15&margin-h=15&no-bg=true" alt="pedroemmanuelbuerger" /></a> </p>
 
 <div align="center">
   <a href="https://github.com/PedroEmmanuelBuerger">
