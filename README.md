@@ -27,9 +27,9 @@
 <img align="right" width="350" src="https://media0.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=ecf05e47fe812azlor7r1ju8811uqp9p9lre3ytf6el9dfw1&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 Hello, I am Pedro Emmanuel, a technology enthusiast and professional. My constant pursuit of new knowledge and personal growth led me to work as a graphic and social media designer between 2019 and 2021, where I learned the importance of communication and teamwork.
 
-Currently, I am transitioning my career into Web Development, an area that has always fascinated me and offers an incredible and vast future. In 2017 and 2018, I had exposure to programming at the institution CEDUP Hermann Hering, which further motivated me to pursue this path.
+I am transitioning my career into Web Development, an area that has always fascinated me and offers an incredible and vast future. In 2017 and 2018, I had exposure to programming at the institution CEDUP Hermann Hering, which further motivated me to pursue this path.
 
-As for technical skills, I have experience in Javascript, Typescript, React, RTL, Hooks, and Redux, along with graphic and social media design abilities. This combination of skills allows me to bring a unique and creative perspective to web development
+As for technical skills, I have experience in Typescript, React, C#, MySql and Docker, along with graphic and social media design abilities. This combination of skills allows me to bring a unique and creative perspective to web development
 </p>
 <h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" /></h3>
 
