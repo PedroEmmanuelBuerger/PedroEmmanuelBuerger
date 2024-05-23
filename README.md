@@ -2,10 +2,10 @@
 <h3 align="center">A Web Development worker in Unus Consultores!!</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pedroemmanuelbuerger&label=Profile%20views&color=0e75b6&style=flat" alt="pedroemmanuelbuerger" /> </p>
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img  src="https://github-profile-trophy.vercel.app/?username=pedroemmanuelbuerger&theme=dracula&rank=S,AAA,AA,A,B,C&margin-w=15&margin-h=15&no-bg=true" alt="pedroemmanuelbuerger" /></a> </p>
-<div align="center">
+<div align="left">
   <a href="https://github.com/PedroEmmanuelBuerger">
-  <img height="165em" align="left"  src="https://github-readme-stats.vercel.app/api?username=PedroEmmanuelBuerger&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-  <img height="165em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEmmanuelBuerger&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em"src="https://github-readme-stats.vercel.app/api?username=PedroEmmanuelBuerger&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="165em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEmmanuelBuerger&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 <h1>About me:</h1>  
