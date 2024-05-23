@@ -12,7 +12,7 @@
    
 - 🌱 I’m currently learning **Java | LSP | Delphi | Data Science**
 
-- 💬 Ask me about **React.js | RTL | Javascript | Hooks | Docker | MySql | Node | Typescript**
+- 💬 Ask me about **React.js | RTL | C# | Hooks | Docker | MySql | Node | Typescript**
 
 - 📫 How to reach me **pedroebuergersilva@gmail.com | 47-997383886**
 
