@@ -10,7 +10,7 @@
 </div>
 <h1>About me:</h1>  
    
-- 🌱 I’m currently learning **Java | POO | C# | Data Science**
+- 🌱 I’m currently learning **Java | LSP | Delphi | Data Science**
 
 - 💬 Ask me about **React.js | RTL | Javascript | Hooks | Docker | MySql | Node | Typescript**
 
