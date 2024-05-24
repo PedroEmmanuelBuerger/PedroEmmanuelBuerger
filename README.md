@@ -8,7 +8,8 @@
   <img height="165em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEmmanuelBuerger&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-<h1>About me:</h1>  
+<h1>About me:</h1>
+
    
 - 🌱 I’m currently learning **Java | LSP | Delphi | Data Science**
 
@@ -27,7 +28,7 @@ I am transitioning my career into Web Development, an area that has always fasci
 
 As for technical skills, I have experience in Typescript, React, C#, MySql and Docker, along with graphic and social media design abilities. This combination of skills allows me to bring a unique and creative perspective to web development
 </p>
-<h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" /></h3>
+<h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80" /></h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/pedrobuerger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedrobuerger" height="40" width="30" /></a>
