@@ -22,11 +22,11 @@
 
 <p>
 <img align="right" width="350" src="https://media0.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=ecf05e47fe812azlor7r1ju8811uqp9p9lre3ytf6el9dfw1&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
-Hello, I am Pedro Emmanuel, a technology enthusiast and professional. My constant pursuit of new knowledge and personal growth led me to work as a graphic and social media designer between 2019 and 2021, where I learned the importance of communication and teamwork.
+Hello! I'm Pedro Emmanuel, a technology enthusiast with a long-standing passion for graphic design and social media. From 2019 to 2021, I had the opportunity to delve into these fields, gaining deep insights into communication and teamwork.
 
-I am transitioning my career into Web Development, an area that has always fascinated me and offers an incredible and vast future. In 2017 and 2018, I had exposure to programming at the institution CEDUP Hermann Hering, which further motivated me to pursue this path.
+Currently, I'm focused on consultancy, particularly in implementing and developing services for human resources management systems. My technical skills encompass various languages and tools such as React, LSP, MySQL, and Java. Additionally, I bring expertise in graphic design and social media, enabling me to offer a unique and creative approach to web development.
 
-As for technical skills, I have experience in Typescript, React, C#, MySql and Docker, along with graphic and social media design abilities. This combination of skills allows me to bring a unique and creative perspective to web development
+I'm always seeking new knowledge and challenges, continuously striving to evolve both personally and professionally.
 </p>
 <h3 align="left">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80" /></h3>
 
