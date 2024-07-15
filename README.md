@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React.js | RTL | C# | Hooks | Docker | MySql | Node | Typescript**
 
-- 📫 How to reach me **pedroebuergersilva@gmail.com | 47-99738-3886**
+- 📫 How to reach me **pedroebuergersilva@gmail.com | (47) 99738-3886**
 
 - ⚡ Fun fact **my first job was as a graphic designer. I make my transition to web developer in 2022!**
 
