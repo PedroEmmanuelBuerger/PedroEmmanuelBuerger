@@ -11,7 +11,7 @@
 <h1>About me:</h1>
 
    
-- 🌱 I’m currently learning **Java | LSP | Delphi | Data Science**
+- 🌱 I’m currently learning **Java | LSP | HCM | Data Science**
 
 - 💬 Ask me about **React.js | RTL | C# | Hooks | Docker | MySql | Node | Typescript**
 
