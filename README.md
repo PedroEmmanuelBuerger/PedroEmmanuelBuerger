@@ -11,9 +11,9 @@
 <h1>About me:</h1>
 
    
-- 🌱 I’m currently learning **Java | LSP | HCM | Data Science**
+- 🌱 I’m currently learning **ERP | JasperReport | LSP | HCM | Data Science**
 
-- 💬 Ask me about **React.js | RTL | C# | Hooks | Docker | MySql | Node | Typescript**
+- 💬 Ask me about **Java  | C# | Python | SqlServer | React | Typescript**
 
 - 📫 How to reach me **pedroebuergersilva@gmail.com | (47) 99738-3886 | https://www.linkedin.com/in/pedrobuerger**
 
