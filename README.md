@@ -13,7 +13,7 @@
    
 - 🌱 I’m currently learning **ERP | JasperReport | LSP | HCM | Data Science**
 
-- 💬 Ask me about **Java  | C# | Python | SqlServer | React | Typescript**
+- 💬 Ask me about **Java  | C# | Python | SQL | LINUX | Typescript**
 
 - 📫 How to reach me **pedroebuergersilva@gmail.com | (47) 99738-3886 | https://www.linkedin.com/in/pedrobuerger**
 
