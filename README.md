@@ -11,7 +11,7 @@
 <h1>About me:</h1>
 
    
-- 🌱 I’m currently learning **ERP | Cyber Security | LSP | Data Science**
+- 🌱 I’m currently learning **ERP | Cyber Security | LSP | Network**
 
 - 💬 Ask me about **Java | Python | SQL | LINUX | Typescript**
 
