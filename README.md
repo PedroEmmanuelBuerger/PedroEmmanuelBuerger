@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World!</h1>
 <h3 align="center">A System Developer worker in Unus solutions!!</h3>
-  <p aling="center"> 
+  <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=pedroemmanuelbuerger&label=Profile%20views&color=0e75b6&style=flat" alt="pedroemmanuelbuerger" />
   </p>
   <p>
