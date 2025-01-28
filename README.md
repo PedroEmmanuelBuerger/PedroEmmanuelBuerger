@@ -1,6 +1,5 @@
 <h1 align="center">Hello, World!</h1>
 <h3 align="center">A System Developer worker in Unus solutions!!</h3>
-<div style="text-align: center;">
   <p> 
     <img src="https://komarev.com/ghpvc/?username=pedroemmanuelbuerger&label=Profile%20views&color=0e75b6&style=flat" alt="pedroemmanuelbuerger" />
   </p>
@@ -16,7 +15,6 @@
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PedroEmmanuelBuerger&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEmmanuelBuerger&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-</div>
 
 <h1>About me:</h1>
 
