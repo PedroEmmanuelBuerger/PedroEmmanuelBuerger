@@ -8,9 +8,8 @@
       <img src="https://github-profile-trophy.vercel.app/?username=pedroemmanuelbuerger&theme=dracula&rank=S,AAA,AA,A&margin-w=15&margin-h=15&no-bg=true" alt="pedroemmanuelbuerger" style="display:block; margin-left:auto; margin-right:auto;"/>
     </a>
   </p>
-</div>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/PedroEmmanuelBuerger">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PedroEmmanuelBuerger&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEmmanuelBuerger&layout=compact&langs_count=7&theme=dracula"/>
