@@ -20,7 +20,7 @@
 
 
    
-- 🌱 I’m currently learning **ERP | Cyber Security | LSP | Network**
+- 🌱 I’m currently learning **ERP | Cyber Security | LSP | Arduino**
 
 - 💬 Ask me about **Java | Python | SQL | LINUX | Typescript**
 
