@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **my first job was as a graphic designer. I make my transition to web developer in 2022!**
 
-<p class="justificado">
+<p align="justify">
 <img align="right" width="350" src="https://media0.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=ecf05e47fe812azlor7r1ju8811uqp9p9lre3ytf6el9dfw1&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 Hello! I'm Pedro Emmanuel, a technology enthusiast with a long-standing passion for graphic design and social media. From 2019 to 2021, I had the opportunity to delve into these fields, gaining deep insights into communication and teamwork.
 
