@@ -8,7 +8,11 @@
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PedroEmmanuelBuerger&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEmmanuelBuerger&layout=compact&langs_count=7&theme=dracula"/>
   </div>
-
+<style>
+  .justificado {
+    text-align: justify;
+  }
+</style>
 <h1>About me:</h1>
 
 
@@ -21,11 +25,6 @@
 - 📫 How to reach me **pedroebuergersilva@gmail.com | (47) 99738-3886 | https://www.linkedin.com/in/pedrobuerger**
 
 - ⚡ Fun fact **my first job was as a graphic designer. I make my transition to web developer in 2022!**
-<style>
-  .justificado {
-    text-align: justify;
-  }
-</style>
 
 <p class="justificado">
 <img align="right" width="350" src="https://media0.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=ecf05e47fe812azlor7r1ju8811uqp9p9lre3ytf6el9dfw1&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
