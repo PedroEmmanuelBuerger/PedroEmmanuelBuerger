@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World! 🌍</h1>
-<h3 align="center">Software Developer at Senior Sistemas 🚀</h3>
+<h3 align="center">Software Developer | Premium Support - BPM @ Senior Sistemas 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pedroemmanuelbuerger&label=Profile%20views&color=0e75b6&style=flat" alt="pedroemmanuelbuerger" />
@@ -10,22 +10,25 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEmmanuelBuerger&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## About Me
+## 👨‍💻 About Me
 
-Hello! I'm **Pedro Emmanuel**, a technology enthusiast with a strong background in graphic design and social media. My passion for these fields led me to explore various aspects of communication and teamwork from 2019 to 2021.
+Hello! I'm **Pedro Emmanuel**, a technology enthusiast passionate about **process automation**, **web development**, and **enterprise solutions**.
 
-In 2022, I transitioned into web development and consultancy, specifically focusing on **HR systems**. My technical skills span a range of languages and frameworks, including **Java**, **Python**, **React**, **LSP**, **MySQL**, and **JavaScript**. Additionally, my expertise in graphic design and social media allows me to bring a creative perspective to my work in web development.
+I began my career in **graphic design and social media**, exploring creativity and communication between 2019 and 2021. In **2022**, I transitioned into **web development** and **consulting**, focusing on **HCM & ERP systems**.
 
-I’m constantly learning and evolving, looking for new challenges and opportunities to grow both personally and professionally.
+💼 Today, I’m part of the **Premium Support team at Senior Sistemas**, working with **BPM (Business Process Management)** to deliver specialized support and help companies optimize their workflows and systems.
+
+My technical skills span a range of languages and frameworks, including **Java**, **Python**, **React**, **Typescript**, **LSP**, **MySQL**, and **JavaScript**.  
+My background in **graphic design** gives me a unique creative perspective when solving technical challenges.
 
 - 🌱 Currently learning **ERP | Cyber Security | LSP | Arduino**
-- 💬 Ask me about **Java | Python | SQL | LINUX | Typescript**
+- 💬 Ask me about **Java | Python | SQL | Linux | Typescript**
 - 📫 Reach me at: **pedroebuergersilva@gmail.com** | **(47) 99738-3886** | [LinkedIn](https://www.linkedin.com/in/pedrobuerger)
-- ⚡ Fun fact: **My first job was as a graphic designer. I made my transition to web development in 2022!**
+- ⚡ Fun fact: **My first job was as a graphic designer — I transitioned to web development in 2022!**
 
-## Connect with Me
+## 🌐 Connect with Me
 
-Let’s get in touch! 👋
+Let’s get in touch and build something great together! 👋
 
 <p align="left">
   <a href="https://linkedin.com/in/pedrobuerger" target="blank">
